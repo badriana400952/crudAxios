@@ -1,0 +1,52 @@
+.tambah {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    height: 600px;
+}
+.update{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.fromss {
+    display: block;
+    align-items: center;
+    justify-content: center;
+   
+}
+.card{
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    border-radius: 5px;
+    backdrop-filter: blur(14px);
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+}
+
+.input_1 {
+    border: none;
+    border-bottom: 2px solid rgb(8, 244, 74);
+    width: 75%;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-bottom: 10px;
+    outline: none;
+    color: white;
+    margin-left: 10px;
+    background:  rgba(255, 255, 255, 0.2);
+}
+
+/* LatihanCrud */
+.tombol{
+    padding: 6px 8px 10px 10px;
+    text-align: center;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+/* create */
